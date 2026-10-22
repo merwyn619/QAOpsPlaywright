@@ -1,0 +1,10 @@
+[
+  'ADIDAS ORIGINAL',
+  'ZARA COAT 3',
+  'iphone 13 pro',
+  'qwerty',
+  'qwerty',
+  'qwerty',
+  'Automation'
+]
+ | 6ace575b93b084c41f47ea2a | 
